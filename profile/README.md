@@ -2,7 +2,7 @@
 
   <!-- Logo -->
   <a href="https://s-cms.dev" target="_blank" rel="noopener">
-    <img src="LOGO_URL_HERE.svg" alt="Smart CMS" height="84">
+    <img src="../profile/assets/icon-logo.jpg" alt="Smart CMS" height="84">
   </a>
 
   <!-- Name -->
@@ -21,26 +21,12 @@
 
   <!-- Badges -->
   <p>
-    <a href="https://github.com/s-cms/blob/main/LICENSE">
-      <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg">
-    </a>
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-blue.svg">
     <img alt="PHP 8.3+" src="https://img.shields.io/badge/PHP-8.3%2B-8892BF.svg">
     <img alt="Laravel 12" src="https://img.shields.io/badge/Laravel-12-FF2D20.svg">
     <img alt="Filament 4" src="https://img.shields.io/badge/Filament-4-16A34A.svg">
     <img alt="Tailwind CSS 4" src="https://img.shields.io/badge/Tailwind-4-06B6D4.svg">
-    <a href="https://github.com/s-cms/stargazers">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/s-cms?style=social">
-    </a>
-  </p>
-
-  <!-- Quick nav -->
-  <p>
-    <a href="#installation"><b>Install</b></a> •
-    <a href="#key-features"><b>Features</b></a> •
-    <a href="#technology-stack"><b>Tech stack</b></a> •
-    <a href="#quick-start"><b>Quick start</b></a> •
-    <a href="#contact--support"><b>Support</b></a> •
-    <a href="https://github.com/s-cms/issues"><b>Issues</b></a>
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/s-cms?style=social">
   </p>
 
   <!-- Divider -->
@@ -201,15 +187,7 @@ Smart CMS is ready to use immediately after installation — no additional confi
 
 ---
 
-## 🪪 License
-
-Smart CMS is open-source software licensed under the [MIT license](LICENSE).
-
----
-
 ## 📬 Contact & Support
 
 - 🌐 Website: [https://s-cms.dev](https://s-cms.dev)
-- 💬 Telegram (support): *coming soon*
 - 📩 Email: support@s-cms.dev
-- 🐛 Report issues: [GitHub Issues](https://github.com/s-cms/issues)
